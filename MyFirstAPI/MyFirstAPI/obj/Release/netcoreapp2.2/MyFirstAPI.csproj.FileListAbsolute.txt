@@ -1,0 +1,17 @@
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/bin/Release/netcoreapp2.2/appsettings.Development.json
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/bin/Release/netcoreapp2.2/appsettings.json
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/bin/Release/netcoreapp2.2/Properties/launchSettings.json
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/bin/Release/netcoreapp2.2/MyFirstAPI.deps.json
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/bin/Release/netcoreapp2.2/MyFirstAPI.runtimeconfig.json
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/bin/Release/netcoreapp2.2/MyFirstAPI.runtimeconfig.dev.json
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/bin/Release/netcoreapp2.2/MyFirstAPI.dll
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/bin/Release/netcoreapp2.2/MyFirstAPI.pdb
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.AssemblyInfoInputs.cache
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.AssemblyInfo.cs
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.csproj.CoreCompileInputs.cache
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.RazorAssemblyInfo.cache
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.RazorAssemblyInfo.cs
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.RazorTargetAssemblyInfo.cache
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.dll
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.pdb
+/Users/Brance/Desktop/API/MyFirstAPI/MyFirstAPI/obj/Release/netcoreapp2.2/MyFirstAPI.genruntimeconfig.cache
